@@ -1,0 +1,17 @@
+* {
+	box-sizing : border-box;
+	margin : 0px;
+}
+
+form {
+	text-align : center;
+}
+
+#create_table {
+	padding : 5px;
+	background-color : blue;
+	color : white;
+	outline : none;
+	border : none;
+	border-radius : 7px;
+}
